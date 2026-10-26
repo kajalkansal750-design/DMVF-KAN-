@@ -1,0 +1,21 @@
+image_path,patient_id,sex,age,view,scanner,institution,Atelectasis,Cardiomegaly,Consolidation,Edema,Pleural Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,Nodule,Pleural Thickening,Pneumonia,Pneumothorax
+data_real/images\1-s2.0-S0140673620303706-fx1_lrg.jpg,11,Male,56.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ARDSSevere.png,5,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,2,Male,65.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,2,Male,65.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,2,Male,65.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,2,Male,65.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nCoV-radiol.2020200269.fig1-day7.jpeg,12,Male,42.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\radiol.2020200490.fig3.jpeg,18,Female,53.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ryct.2020200028.fig1a.jpeg,16,Female,59.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ryct.2020200034.fig5-day0.jpeg,15,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ryct.2020200034.fig5-day4.jpeg,15,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ryct.2020200034.fig5-day7.jpeg,15,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g04a-Fig4a-day7.jpeg,7,Female,29.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g04b-Fig4b-day12.jpeg,7,Female,29.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g05x-Fig5-day9.jpeg,8,Female,42.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g07a-Fig7a-day5.jpeg,9,Female,46.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g07b-Fig7b-day12.jpeg,9,Female,46.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g09a-Fig9a-day17.jpeg,10,Female,73.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g09b-Fig9b-day19.jpeg,10,Female,73.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g09c-Fig9c-day27.jpeg,10,Female,73.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0

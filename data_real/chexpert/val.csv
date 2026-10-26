@@ -1,0 +1,7 @@
+image_path,patient_id,sex,age,view,scanner,institution,Atelectasis,Cardiomegaly,Consolidation,Edema,Pleural Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,Nodule,Pleural Thickening,Pneumonia,Pneumothorax
+data_real/images\lancet-case2a.jpg,6,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\lancet-case2b.jpg,6,Male,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmoa2001191_f1-PA.jpeg,13,Male,35.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmoa2001191_f3-PA.jpeg,13,Male,35.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmoa2001191_f4.jpeg,13,Male,35.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmoa2001191_f5-PA.jpeg,13,Male,35.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0

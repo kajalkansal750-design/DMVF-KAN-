@@ -1,0 +1,10 @@
+image_path,patient_id,sex,age,view,scanner,institution,Atelectasis,Cardiomegaly,Consolidation,Edema,Pleural Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,Nodule,Pleural Thickening,Pneumonia,Pneumothorax
+data_real/images\jkms-35-e79-g001-l-a.jpg,17,Male,54.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\jkms-35-e79-g001-l-b.jpg,17,Male,54.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\jkms-35-e79-g001-l-c.jpg,17,Male,54.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmc2001573_f1a.jpeg,4,Female,52.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\nejmc2001573_f1b.jpeg,4,Female,52.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\ryct.2020200034.fig2.jpeg,14,Female,55.0,PA,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g0-Fig8a-day0.jpeg,3,Male,74.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g0-Fig8b-day5.jpeg,3,Male,74.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+data_real/images\SARS-10.1148rg.242035193-g04mr34g0-Fig8c-day10.jpeg,3,Male,74.0,AP,GE_Discovery,stanford_chexpert,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
